@@ -1,4 +1,4 @@
-# Smart-City-Pipeline-Microsoft-Fabric-
+# Smart City Pipeline (Microsoft Fabric)
 
 https://werhere-it-academy.gitbook.io/werhere-it-academy-handbook/data-engineering/azure-data-engineering-module/week-5-project-ii
 
